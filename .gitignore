@@ -1,0 +1,3 @@
+# APKs are attached to GitHub Releases, never committed
+*.apk
+.DS_Store
